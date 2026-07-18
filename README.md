@@ -1,19 +1,18 @@
-### Hi there 👋 我是王宇恒
+### Hi there, I'm Wang Yuheng
 
-- 🎓 南阳师范学院 · 软件工程 · 2027届
-- 💻 正在学习 Python 后端开发
-- 🌱 熟悉 Flask / MySQL / RESTful API
-- 📫 wangyuheng-01@users.noreply.github.com
+- NanYang Normal University - Software Engineering - 2027
+- Learning Python backend development
+- Flask / SQLite / RESTful API / Git
 
----
+### Projects
 
-### 🛠 项目
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [student-manager](https://github.com/wangyuheng-01/student-manager) | Student info mgmt system (CRUD+scores+auth+export) | Flask + SQLite + Bootstrap |
+| [my-blog](https://github.com/wangyuheng-01/my-blog) | Personal blog (Markdown+categories+archive) | Flask + SQLite + Markdown |
+| [code-review-assistant](https://github.com/wangyuheng-01/code-review-assistant) | AI code review tool | FastAPI + Vue + Docker |
+| [algorithm-practice](https://github.com/wangyuheng-01/algorithm-practice) | Algorithm practice in Python | Python |
 
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| [student-manager](https://github.com/wangyuheng-01/student-manager) | 学生信息管理系统 | Flask + MySQL + Bootstrap |
-| [my-blog](https://github.com/wangyuheng-01/my-blog) | 简易博客系统 | Flask + SQLite + Markdown |
-
-### 📊 GitHub 统计
+### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyuheng-01&show_icons=true&theme=default)
