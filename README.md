@@ -11,7 +11,6 @@
 | [student-manager](https://github.com/wangyuheng-01/student-manager) | Student info mgmt system (CRUD+scores+auth+export) | Flask + SQLite + Bootstrap |
 | [my-blog](https://github.com/wangyuheng-01/my-blog) | Personal blog (Markdown+categories+archive) | Flask + SQLite + Markdown |
 | [code-review-assistant](https://github.com/wangyuheng-01/code-review-assistant) | AI code review tool | FastAPI + Vue + Docker |
-| [algorithm-practice](https://github.com/wangyuheng-01/algorithm-practice) | Algorithm practice in Python | Python |
 
 ### GitHub Stats
 
